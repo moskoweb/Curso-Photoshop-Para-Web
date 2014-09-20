@@ -3,6 +3,29 @@
 
 O objetivo principal desse curso, e trazer a oportunidade de aprendizado para quem deseja iniciar como web designer ou até para quem já trabalha com web, mas tem dificuldades com o Adobe Photoshop.
 
+## Módulos
+
+### Módulo 1
+
+- Introdução
+  - Conhecendo a Interface
+  - Esclarecimento sobre RGB / CMYK
+  - Modo de Visualização
+  - Trabalho com Camadas
+    - Organização
+    - Opacidade
+    - Modo
+    - Objetos Inteligentes
+  - Ferramentas de Seleção
+    - Quadrado
+    - Circular
+    - Laços
+      - Laços
+      - Poligonal
+      - Magnético
+    - Varinha Mágica
+    - Seleção Rápida
+
 ## Conteúdo
 
 Os principais pontos tratados serão:
