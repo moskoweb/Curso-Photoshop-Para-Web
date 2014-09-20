@@ -3,9 +3,9 @@
 
 O objetivo principal desse curso, e trazer a oportunidade de aprendizado para quem deseja iniciar como web designer ou até para quem já trabalha com web, mas tem dificuldades com o Adobe Photoshop.
 
-## Módulos
+### Módulos
 
-### Módulo 1
+#### Módulo 1
 
 - Introdução
   - Conhecendo a Interface
@@ -26,7 +26,7 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
     - Varinha Mágica
     - Seleção Rápida
 
-## Conteúdo
+### Conteúdo
 
 Os principais pontos tratados serão:
 
@@ -41,12 +41,12 @@ Os principais pontos tratados serão:
 - Uso de Framework
 - Uso de Mock-up
 
-## Forma de Ensino
+### Forma de Ensino
 
 Estarei ensinando em Módulos, para assim juntas assuntos similares, para uma melhor aprendizagem.
 Os vídeos estão disponíveis no Youtube, de forma gratuita, pois ensinar não tem preço.
 
-## Participação
+### Participação
 
 Como o foco é a aprendizagem de forma dinâmica, quero que se você tem dificuldade em algum ponto, ou deseja uma melhor explicação e forma de aplicar determinada ferramenta.
 
@@ -54,7 +54,7 @@ Que deixe um Issues com sua duvida, ou que entre em contato comigo por email [mo
 
 --
 
-### Agradecimentos
+#### Agradecimentos
 
 Muito Obrigado
 
