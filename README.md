@@ -1,21 +1,18 @@
 # Curso Photoshop Para Web
-
+---
 
 O objetivo principal desse curso, e trazer a oportunidade de aprendizado para quem deseja iniciar como web designer ou até para quem já trabalha com web, mas tem dificuldades com o Adobe Photoshop.
 
-### Módulos
+## Grade de Videos
+---
 
-#### Módulo 1
+##### Video 1
 
 - Introdução
   - Conhecendo a Interface
-  - Esclarecimento sobre RGB / CMYK
   - Modo de Visualização
-  - Trabalho com Camadas
-    - Organização
-    - Opacidade
-    - Modo
-    - Objetos Inteligentes
+
+##### Video 2
   - Ferramentas de Seleção
     - Quadrado
     - Circular
@@ -26,7 +23,60 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
     - Varinha Mágica
     - Seleção Rápida
 
-### Conteúdo
+##### Video 3
+  - Trabalho com Camadas
+    - Organização
+    - Opacidade
+    - Modo
+    - Objetos Inteligentes
+
+##### Video 4
+  - Tranformação
+    - Livre
+    - Perspectiva
+
+##### Video 5
+  - Cortar
+  - Fatiar
+
+##### Video 6
+
+- Ajustes
+  - Remoção de Fundo
+    - Borracha
+    - Redefinir Arestas
+  - Pincel de Recuperação
+  - Ferramenta de Correção
+  - Remover Olhos Vermelhos
+  - Correção de Foto
+
+##### Video 7
+  - Desfoque
+    - Ferramenta
+    - Filtro
+
+##### Video 8
+  - Degradê
+  - Caneta
+  - Texto
+    - Efeitos de Texto
+  - Formas
+    - Linha
+    - Retangulo
+    - Retangulo Arredondado
+    - Elipse
+    - Polígono
+    - Forma Personalizada
+
+---
+### Videos Rapidos 2
+  - Ferramenta Mão
+  - Girar Visualização
+  - Conta Gotas
+  - Notas
+
+---
+## Conteúdo
 
 Os principais pontos tratados serão:
 
@@ -41,18 +91,20 @@ Os principais pontos tratados serão:
 - Uso de Framework
 - Uso de Mock-up
 
-### Forma de Ensino
+---
+## Forma de Ensino
 
 Estarei ensinando em Módulos, para assim juntas assuntos similares, para uma melhor aprendizagem.
 Os vídeos estão disponíveis no Youtube, de forma gratuita, pois ensinar não tem preço.
 
-### Participação
+---
+## Você pode participar
 
 Como o foco é a aprendizagem de forma dinâmica, quero que se você tem dificuldade em algum ponto, ou deseja uma melhor explicação e forma de aplicar determinada ferramenta.
 
-Que deixe um Issues com sua duvida, ou que entre em contato comigo por email [moskoweb@gmail.com](mailto:moskoweb@gmail.com?subject=Photoshop: Dúvida) com assunto **Photoshop: Dúvida** ou então pelo facebook [AlanWebD](http://fb.com/alanwebd)
+Que deixe um Issues com sua duvida, ou que entre em contato comigo por email [moskoweb@gmail.com](mailto:moskoweb@gmail.com?subject=Photoshop: Dúvida) com assunto `Photoshop: Dúvida` ou então pelo facebook [AlanWebD](http://fb.com/alanwebd)
 
---
+---
 
 #### Agradecimentos
 
