@@ -3,7 +3,7 @@
 
 O objetivo principal desse curso, e trazer a oportunidade de aprendizado para quem deseja iniciar como web designer ou até para quem já trabalha com web, mas tem dificuldades com o Adobe Photoshop.
 
-## Grade de Videos
+## Grade de Vídeos
 ---
 
 ##### Video 1
@@ -14,26 +14,26 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
 
 ##### Video 2
   - Ferramentas de Seleção
-    - Quadrado
-    - Circular
-    - Laços
-      - Laços
-      - Poligonal
-      - Magnético
-    - Varinha Mágica
-    - Seleção Rápida
+	- Quadrado
+	- Circular
+	- Laços
+	  - Laços
+	  - Poligonal
+	  - Magnético
+	- Varinha Mágica
+	- Seleção Rápida
 
 ##### Video 3
   - Trabalho com Camadas
-    - Organização
-    - Opacidade
-    - Modo
-    - Objetos Inteligentes
+	- Organização
+	- Opacidade
+	- Modo
+	- Objetos Inteligentes
 
 ##### Video 4
-  - Tranformação
-    - Livre
-    - Perspectiva
+  - Transformação
+	- Livre
+	- Perspectiva
 
 ##### Video 5
   - Cortar
@@ -43,8 +43,8 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
 
 - Ajustes
   - Remoção de Fundo
-    - Borracha
-    - Redefinir Arestas
+	- Borracha
+	- Redefinir Arestas
   - Pincel de Recuperação
   - Ferramenta de Correção
   - Remover Olhos Vermelhos
@@ -52,24 +52,24 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
 
 ##### Video 7
   - Desfoque
-    - Ferramenta
-    - Filtro
+	- Ferramenta
+	- Filtro
 
 ##### Video 8
-  - Degradê
+  - Degrade
   - Caneta
   - Texto
-    - Efeitos de Texto
+	- Efeitos de Texto
   - Formas
-    - Linha
-    - Retangulo
-    - Retangulo Arredondado
-    - Elipse
-    - Polígono
-    - Forma Personalizada
+	- Linha
+	- Retângulo
+	- Retângulo Arredondado
+	- Elipse
+	- Polígono
+	- Forma Personalizada
 
 ---
-### Videos Rapidos 2
+### Vídeos Rápidos 2
   - Ferramenta Mão
   - Girar Visualização
   - Conta Gotas
@@ -89,7 +89,7 @@ Os principais pontos tratados serão:
 - Criação de Layout
 - Passar PSD/HTML
 - Uso de Framework
-- Uso de Mock-up
+- Uso de Mockup
 
 ---
 ## Forma de Ensino
