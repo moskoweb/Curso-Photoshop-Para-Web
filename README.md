@@ -6,11 +6,14 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
 ## Grade de Vídeos
 ---
 
-##### Video 1
+##### [Video 1](https://github.com/moskoweb/Curso-Photoshop-Para-Web/blob/master/Aula%201%20-%20Apresenta%C3%A7%C3%A3o%20e%20Introdu%C3%A7%C3%A3o.md)
 
+- Apresentação
 - Introdução
-  - Conhecendo a Interface
-  - Modo de Visualização
+- O que é o Photoshop?
+- Quais os Requisitos do Sistema?
+- Como Baixar o Photoshop?
+- Por que o Photoshop?
 
 ##### Video 2
   - Ferramentas de Seleção
