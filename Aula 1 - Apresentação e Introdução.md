@@ -1,4 +1,5 @@
 # Aula 1 de Photoshop
+# Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 
 ## Olá, seja bem vindo ao Curso de Photoshop para Web
 ## Eu sou o Alan Mosko, 
