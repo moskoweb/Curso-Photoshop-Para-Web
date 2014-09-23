@@ -15,6 +15,8 @@ O objetivo principal desse curso, e trazer a oportunidade de aprendizado para qu
 - Como Baixar o Photoshop?
 - Por que o Photoshop?
 
+Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
+
 ##### Video 2
   - Ferramentas de Seleção
 	- Quadrado
