@@ -5,11 +5,11 @@
 ## Eu sou o Alan Mosko, 
 > [Facebook](http://fb.com/AlanWebD "Facebook Alan Mosko")
 
-E estarei produzindo vários vídeos, ensinando a como usar o Photoshop como uma ferramenta de web poderosa que ela é.
+vou produzir vários vídeos ensinando como usar o Photoshop, como uma ferramenta de web poderosa, que ela é.
 
-Hoje estarei trazendo a introdução do "O que é o Photoshop?", "Quais os Requisitos do Sistema?", "Como baixar o Photoshop?" e o "Por que o Photoshop?"
+Hoje apresento a introdução do "O que é o Photoshop?", "Quais os Requisitos do Sistema?", "Como baixar o Photoshop?" e o "Por que o Photoshop?"
 
-Então vamos la, vamos começar.
+Então vamos lá? Vamos começar.
 
 ### O que é o Photoshop?
 
