@@ -1,15 +1,14 @@
 # Aula 1 de Photoshop
-# Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 
-## Olá, seja bem vindo ao Curso de Photoshop para Web
-## Eu sou o Alan Mosko, 
-> [Facebook](http://fb.com/AlanWebD "Facebook Alan Mosko")
+Olá, seja bem vindo ao Curso de Photoshop para Web
 
-E estarei produzindo vários vídeos, ensinando a como usar o Photoshop como uma ferramenta de web poderosa que ela é.
+Eu sou o Alan Mosko, Web Design - [Facebook AlanWebD](http://fb.com/AlanWebD "Facebook Alan Mosko")
 
-Hoje estarei trazendo a introdução do "O que é o Photoshop?", "Quais os Requisitos do Sistema?", "Como baixar o Photoshop?" e o "Por que o Photoshop?"
+Vou produzir vários vídeos ensinando a usar o Photoshop como uma ferramenta de web poderosa, que ela é.
 
-Então vamos la, vamos começar.
+Hoje apresento a introdução do "O que é o Photoshop?", "Quais os Requisitos do Sistema?", "Como baixar o Photoshop?" e o "Por que o Photoshop?"
+
+Então vamos lá? Vamos começar.
 
 ### O que é o Photoshop?
 
@@ -51,16 +50,24 @@ Antes de responder a esta pergunta, primeiramente vamos falar de dois tipos de i
 
 As imagens **Vetorial** e as **Matricial** (bitmap)
 
-  A Vetorial é composta de curvas e figuras geométricas, que podem ser ampliadas e reduzidas à vontade sem perder qualidade. Pois são gravadas na forma de cálculos, dai a sua escala pode ser alterada sem distorções.
-> Ex.: Logotipos são feitos com vetorial.
-  Uma imagem vetorial é interpretada no momento em que é aberta. Por este motivo, trabalhos mais complexos podem demorar a abrir, já que são montadas na hora, podemos dizer assim.
+A Vetorial é composta de curvas e figuras geométricas, que podem ser ampliadas e reduzidas à vontade sem perder qualidade. Pois são gravadas na forma de cálculos, dai a sua escala pode ser alterada sem distorções.
 
-  E, as imagens Matricial é uma tela retangular composta de vários minúsculos pontos, coloridos ou não, que são chamados de Pixels. Juntos os pixels podem formar uma infinidade de figuras diferentes. 
-  Quanto mais pixels concentrados numa área, maior é o nível de detalhes (resolução).
-> Ex.: Fotografias são assim.
-  Se você der um zoom para aproximar uma fotografia no computador, poderá ver os pixels dela.
-  Se você já viu sua vó tricotando ou aquelas revistas de costuras que nossas vós costumam comprar, verá uma imediata semelhança entre as imagens matriciais e um cachecol da vó.
+Ex.: Logotipos são feitos com vetorial.
 
-  Então, respondendo a pergunta, temos programas bem adequados a imagens vetoriais, como Illustrator, e temos o Photoshop, o mais conceituado programa para retoque, montagens e tratamentos de foto do mundo.
-  Podemos ver isso nesse [Video Aqui](http://www.youtube.com/watch?v=ON-F-c01oFM "Video Tratamento de Foto")
-  Já o InDesign, é bom para fazer montagem de livros e revistas, com imagens tratadas no Photoshop.
+Uma imagem vetorial é interpretada no momento em que é aberta. Por este motivo, trabalhos mais complexos podem demorar a abrir, já que são montadas na hora, podemos dizer assim.
+
+E, as imagens Matricial é uma tela retangular composta de vários minúsculos pontos, coloridos ou não, que são chamados de Pixels. Juntos os pixels podem formar uma infinidade de figuras diferentes. 
+
+Quanto mais pixels concentrados numa área, maior é o nível de detalhes (resolução).
+
+Ex.: Fotografias são assim.
+
+Se você der um zoom para aproximar uma fotografia no computador, poderá ver os pixels dela.
+
+Se você já viu sua vó tricotando ou aquelas revistas de costuras que nossas vós costumam comprar, verá uma imediata semelhança entre as imagens matriciais e um cachecol da vó.
+
+Então, respondendo a pergunta, temos programas bem adequados a imagens vetoriais, como Illustrator, e temos o Photoshop, o mais conceituado programa para retoque, montagens e tratamentos de foto do mundo.
+
+Podemos ver isso nesse [Video Aqui](http://www.youtube.com/watch?v=ON-F-c01oFM "Video Tratamento de Foto")
+
+Já o InDesign, é bom para fazer montagem de livros e revistas, com imagens tratadas no Photoshop.
