@@ -26,6 +26,9 @@ Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 	- Varinha Mágica
 	- Seleção Rápida
 
+[Assista Aqui](http://youtu.be/JDhL0vnBT8E)
+[Arquivos da Aula](https://mega.co.nz/#F!p80RlKLQ!yiJ1YbAAGhdwhw07oL-N0Q)
+
 ##### Video 3
 - Trabalho com Camadas
 	- Organização
