@@ -31,6 +31,7 @@ Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 [Arquivos da Aula](https://mega.co.nz/#F!p80RlKLQ!yiJ1YbAAGhdwhw07oL-N0Q)
 
 ##### Video 3
+
 - Trabalho com Camadas
 	- Organização
 	- Opacidade
@@ -38,15 +39,17 @@ Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 	- Objetos Inteligentes
 
 ##### Video 4
+
 - Transformação
 	- Livre
 	- Perspectiva
-
-##### Video 5
 - Cortar
 - Fatiar
+- Desfoque
+	- Ferramenta
+	- Filtro
 
-##### Video 6
+##### Video 5
 
 - Ajustes
 	- Remoção de Fundo
@@ -57,13 +60,7 @@ Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 	- Remover Olhos Vermelhos
 	- Correção de Foto
 
-##### Video 7
-
-- Desfoque
-	- Ferramenta
-	- Filtro
-
-##### Video 8
+##### Video 6
 
 - Degrade
 - Caneta
@@ -76,6 +73,12 @@ Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 	- Elipse
 	- Polígono
 	- Forma Personalizada
+
+#### Video 7
+
+- Criar Layout de Site
+- Criar Layout de Blog
+- Criar Layout de Post
 
 ---
 
