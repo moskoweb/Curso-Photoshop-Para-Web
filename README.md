@@ -30,13 +30,15 @@ Assista Aqui [Link Youtube](http://youtu.be/c349HVLKuZI)
 
 [Arquivos da Aula](https://mega.co.nz/#F!p80RlKLQ!yiJ1YbAAGhdwhw07oL-N0Q)
 
-##### Video 3
+##### [Video 3](http://youtu.be/kStQrmr_0Aw)
 
 - Trabalho com Camadas
 	- Organização
 	- Opacidade
 	- Modo
 	- Objetos Inteligentes
+
+Arquivo da Aula - Wireframe de Organização
 
 ##### Video 4
 
